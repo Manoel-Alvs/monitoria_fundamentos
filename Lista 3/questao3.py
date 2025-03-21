@@ -11,6 +11,6 @@ for i in range(10):
     else:
         soma += numero
     
-print(f"A quantidade de números negativos foi {negativos}")
+print(f"A quantidade de números negativos foi: {negativos}")
 print(f"A soma dos números positivos foi: {soma}")
 
